@@ -8,5 +8,5 @@
 
 1. GKE - Generar Keys
     1. Seleccionar el usuario: jenkins-devops
-    1. Clic en "Add Key", en formato "json"
+    1. Clic en "Add Key", en formato "json".
     
